@@ -20,6 +20,7 @@ public class Main {
 
     @Test
     public void myFirstTest(){
+
         driver.get("https://udhtu.edu.ua/en/");
     }
 
